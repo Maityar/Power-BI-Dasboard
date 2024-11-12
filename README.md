@@ -27,6 +27,7 @@ Business Takeaways and Recomendations:
  • As the customer base grows, revenue per customer is declining, suggesting a shift towards lower-priced products or less frequent purchases. I suggest evaluating pricing strategies to optimize revenue and profitability, while optimizing the customer experience to encourage repeat purchases.
 
 Dashboard Screenshots:
+
 ![image](https://github.com/user-attachments/assets/35f79b4f-6ca6-456a-9380-651d9cdd3d16)
 ![image](https://github.com/user-attachments/assets/9f0a4bc3-d62f-4a87-9007-7f57b258c76a)
 ![image](https://github.com/user-attachments/assets/bac9816a-27b8-4db4-b2b6-7e81414926e2)
