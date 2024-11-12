@@ -19,7 +19,9 @@ Business takeaways and recomendations:
 
  • The most returned product type is shirts, while clothing is the least ordered product category.
  I recomend AdventureWorks to evaluate the performance of the clothing category - If the category is not profitable or strategic, consider reducing its offerings. However, if there's potential for improvement, implementing targeted marketing campaigns and personalized recommendations could boost sales and reduce returns.
- • Create calculated columns and measures with DAX
+ 
+ •  The accessories category is the most ordered one, with the lowest return rate. it's an oppurtinity to leverage the popularity of the accessories category, increase sales, and improve overall customer satisfaction by using different strategies to further optimize this category. For an example - expanding the accessory range by introducing a wider variety of products that complement the core offerings.
+ 
  • Design an interactive dashboard to visualize the data
 
 Dashboard Screenshots:
