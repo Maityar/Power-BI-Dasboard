@@ -11,3 +11,6 @@ Key Features:
  • Build a relational data model
  • Create calculated columns and measures with DAX
  • Design an interactive dashboard to visualize the data
+
+Dashboard Screenshots:
+![image](https://github.com/user-attachments/assets/35f79b4f-6ca6-456a-9380-651d9cdd3d16)
