@@ -8,8 +8,11 @@ The project aims to provide actionable insights for AdventureWorks, a global man
 Key Features:
 
  • Connect and transform the raw data
+ 
  • Build a relational data model
+ 
  • Create calculated columns and measures with DAX
+ 
  • Design an interactive dashboard to visualize the data
 
 Business takeaways and recomendations:
